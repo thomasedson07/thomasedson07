@@ -1,14 +1,15 @@
 ## Ola, Me chamo Thomas Edson
 
-![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasedson07&hide=contribs,prs&showicons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasedson07&layout=donut&showicons=true&theme=radical)](https://github.com/thomasedson07)
+<a href="https://github.com/thomasedson07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thomasedson07&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Thomas's github stats" /></a> | <a href="https://github.com/thomasedson07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasedson07&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
 ### Linguagens
 <div style="display: inline_block"><br>
-  <img align="center" alt="Thom" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="Thom" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
-  <img align="center" alt="Thom" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Thom" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt="Thom" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="Thom" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+  <img align="center" alt="Thom" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="Thom" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
 </div>
 
 
