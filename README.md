@@ -25,6 +25,8 @@
   
 </div>
 
+![Snake animation](https://github.com/thomasedson07/GabrielaZanetti/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
