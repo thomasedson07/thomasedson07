@@ -1,6 +1,6 @@
 ## Ola, Me chamo Thomas Edson
 
-<a href="https://github.com/thomasedson07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thomasedson07&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Thomas's github stats" /></a> | <a href="https://github.com/thomasedson07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasedson07&layout=compact&theme=buefy&hide_border=true" /></a> |
+<a href="https://github.com/thomasedson07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thomasedson07&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Thomas's github stats" /></a> | <a href="https://github.com/thomasedson07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasedson07&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
