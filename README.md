@@ -7,8 +7,6 @@
 ### Linguagens
 <div style="display: inline_block"><br>
   <img align="center" alt="Looker" height="50" width="60" src="https://commons.wikimedia.org/wiki/Special:FilePath/Looker.svg">
-  <img align="center" alt="Looker" height="50" width="60" src="https://logo.svgcdn.com/l/looker.svg">
-
   <img align="center" alt="Thom" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
   <img align="center" alt="Thom" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Thom" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
